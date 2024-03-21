@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 :root {
-    --color-primary: rgb(171, 33, 171);
+    --color-primary: rgba(163,63,63,255);
     --color-secondary: #b54769;
     --color-black: #080808;
     --color-white: #ffffff;
@@ -99,14 +99,14 @@
 .intro-col-2 {
     height: 500px;
     width: 500px;
-    border-radius: 50%;
+    /* border-radius: 50%; */
  }
 
  .intro-col-2 img {
     width: 100%;
     object-fit: cover;
-    border-radius: 50%;
-    border: 5px solid var(--color-primary);
+    /* border-radius: 50%; */
+    /* border: 5px solid var(--color-primary); */
  }
 
  
